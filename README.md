@@ -33,7 +33,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=TallesCrhistian&show_icons=true&theme=vision-friendly-dark" alt="TallesCrhistian's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesCrhistian&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesCrhistian&layout=compact&theme=vision-friendly-dark" alt="TallesCrhistian's most languages"/>
 </p>
 
 <br><br>
