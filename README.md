@@ -10,7 +10,7 @@
 
 - 💬 Ask me about  **C# | .Net | Web API | EF Core | SQL Server ||  JavaScript**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -27,16 +27,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=TallesCrhistian&show_icons=true&theme=vision-friendly-dark" alt="TallesCrhistian's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesCrhistian&layout=compact&theme=vision-friendly-dark" alt="TallesCrhistian's most languages"/>
+<img width="470em" src="https://github-readme-stats.vercel.app/api?username=TallesCrhistian&show_icons=true&theme=vision-friendly-dark" alt="TallesCrhistian's stats"/>
+<img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesCrhistian&layout=compact&theme=vision-friendly-dark" alt="TallesCrhistian's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
