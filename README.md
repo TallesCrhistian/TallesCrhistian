@@ -4,7 +4,7 @@
 
 - 🔥 Web Developer  
 
-- 🔭 I’m currently working at [Hvex] [https://www.eb.mil.br/](https://hvex.com.br/)
+- 🔭 I’m currently working at [Hvex] [https://hvex.com.br/]
 
 - 👨‍💻 All of my projects are available at [Linkedin] https://www.linkedin.com/in/talles-crhistian-arriel/
 
